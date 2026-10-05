@@ -1,153 +1,204 @@
-# 👋 Hi, I'm Jatin Sharma
+<div align="center">
 
-### Software Developer • AI/LLM Builder • Problem Solver
+# Jatin Sharma
 
-I build **software applications and AI-powered systems**, with a growing focus on **LLMs, RAG, AI agents, and intelligent automation**.
+### Software Developer · AI/LLM Engineer · Builder
 
-I enjoy working across the stack — from designing user interfaces and building backend systems to integrating AI models that can actually perform useful tasks.
+**Building software applications and intelligent systems.**
 
-> **Building software. Exploring intelligence. Turning ideas into working systems.**
+<p>
+  <a href="https://github.com/jatinsharma5650">
+    <img src="https://img.shields.io/github/followers/jatinsharma5650?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/jatinsharma5650?tab=repositories">
+    <img src="https://img.shields.io/github/stars/jatinsharma5650?label=Total%20Stars&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/jatinsharma5650">
+    <img src="https://komarev.com/ghpvc/?username=jatinsharma5650&style=for-the-badge&label=PROFILE+VIEWS">
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jatin-sharma-286a9a290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/jatinsharma5650?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🧠 What I Do
+## 👨‍💻 About Me
+
+I'm a developer interested in the intersection of **software engineering and artificial intelligence**.
+
+I build applications, experiment with emerging AI technologies, and explore how LLMs can be integrated into practical software systems.
+
+My current interests include:
+
+* 🤖 LLM-powered applications
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🧠 AI agents and tool calling
+* ⚙️ AI-powered automation
+* 🌐 Web application development
+* 📊 Data analysis & visualization
+* 🔌 API and backend integration
+
+> **My goal is to turn AI capabilities into useful software — not just demos.**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jatinsharma5650&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsharma5650&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jatinsharma5650&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinsharma5650&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🧠 Development + AI
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Software Development
+## 💻 Software Development
 
-I build applications with a focus on usability, functionality and clean architecture.
-
-* 🌐 Web applications
-* ⚙️ Backend development
-* 🗄️ Databases & APIs
-* 🎨 UI / UX implementation
-* 📊 Data & business applications
-* 🔧 Automation & utilities
+```text
+Web Development
+Backend & APIs
+Database Integration
+UI / UX
+Data Applications
+Automation
+DSA & Problem Solving
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI & LLM Engineering
+## 🤖 AI Engineering
 
-I'm exploring how modern AI can be integrated into real applications.
-
-* 🧠 Large Language Models
-* 📚 RAG systems
-* 🔗 LLM API integration
-* 🤖 AI agents & tool calling
-* ⚡ Prompt engineering
-* 🔄 Multi-model / fallback systems
-* 🎯 Fine-tuning concepts
-* 🧩 AI-powered applications
+```text
+Large Language Models
+RAG Systems
+Prompt Engineering
+AI Agents
+Tool Calling
+Document Intelligence
+LLM API Integration
+Model Adaptation
+```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
-> A selection of projects demonstrating my development and AI capabilities.
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 StatementAI
 
-**AI-powered bank statement processing**
+AI-powered bank statement processing application capable of working with **scanned/image-based statements**.
 
-An application designed to extract and work with information from bank statements, including scanned/image-based documents.
+**Stack**
 
-**Focus:** `AI` `OCR` `LLM` `TypeScript` `Document Processing`
+`TypeScript` · `AI` · `Document Processing`
 
-🔗 [View Repository](https://github.com/jatinsharma5650/StatementAI)
+<a href="https://github.com/jatinsharma5650/StatementAI">
+View Project →
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 Store BI
 
-**Business Intelligence & Data Analysis**
+Business intelligence project focused on **data analysis and visualization**.
 
-A data visualization and business intelligence project exploring sales data, dashboards and analytical insights.
+**Stack**
 
-**Focus:** `Power BI` `Data Analysis` `Business Intelligence`
+`Business Intelligence` · `Data Analysis`
 
-🔗 [View Repository](https://github.com/jatinsharma5650/Store_BI)
+<a href="https://github.com/jatinsharma5650/Store_BI">
+View Project →
+</a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📚 Bookiii
 
-**Book Store Web Application**
+A web-based **book store application** built as a frontend development project.
 
-A web-based project focused on creating a functional interface for browsing and working with books.
+**Stack**
 
-**Focus:** `HTML` `CSS` `Web Development`
+`HTML` · `CSS` · `Web Development`
 
-🔗 [View Repository](https://github.com/jatinsharma5650/Bookiii---The-Book-Store-Site)
+<a href="https://github.com/jatinsharma5650/Bookiii---The-Book-Store-Site">
+View Project →
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📰 Newz Gate
 
-**News Website**
+A news-oriented web application project.
 
-A web application project focused on building a news-oriented user experience.
+**Stack**
 
-**Focus:** `HTML` `CSS` `Web Development`
+`HTML` · `CSS` · `Web Development`
 
-🔗 [View Repository](https://github.com/jatinsharma5650/Newz-Gate---The-News-Website)
+<a href="https://github.com/jatinsharma5650/Newz-Gate---The-News-Website">
+View Project →
+</a>
 
----
+</td>
 
-### 🧮 Array Operations
-
-**DSA & Programming Fundamentals**
-
-A C-based project implementing multiple operations on arrays while exploring fundamental data structures and programming concepts.
-
-**Focus:** `C` `DSA` `Problem Solving`
-
-🔗 [View Repository](https://github.com/jatinsharma5650/Array-Operations)
-
----
-
-# 🧪 AI Lab
-
-This is where I'm going deeper into **AI engineering**.
-
-```text
-LLMs
- │
- ├── Prompt Engineering
- │
- ├── RAG
- │    ├── Document Processing
- │    ├── Embeddings
- │    ├── Vector Search
- │    └── Context Retrieval
- │
- ├── AI Agents
- │    ├── Tool Calling
- │    ├── Actions
- │    └── Workflow Automation
- │
- ├── Model Adaptation
- │    ├── LoRA
- │    ├── QLoRA
- │    ├── PEFT
- │    └── Distillation
- │
- └── AI Applications
-      ├── Chatbots
-      ├── Document Intelligence
-      ├── Automation
-      └── Intelligent Systems
-```
-
-I'm particularly interested in moving beyond **"chat with an LLM"** toward systems where AI can **retrieve information, reason about it, use tools and perform actions**.
+</tr>
+</table>
 
 ---
 
@@ -155,73 +206,102 @@ I'm particularly interested in moving beyond **"chat with an LLM"** toward syste
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css" />
+</p>
 
-### AI / ML
+### AI / Data
 
-![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C47FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Systems-111827?style=for-the-badge">
+</p>
 
-### Development
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
-# 📸 Project Showcase
+# 🔬 AI Lab
 
-> **Screenshots and project demonstrations will be added here.**
+I'm currently exploring how modern AI systems can move from simple **question answering** to actually **performing useful tasks**.
+
+```text
+                     AI APPLICATIONS
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+            LLM                         RAG
+             │                           │
+      ┌──────┼──────┐             ┌──────┼──────┐
+      │      │      │             │      │      │
+   Prompt  Tools  Agents       Embed  Retrieve  Context
+      │      │      │             │      │      │
+      └──────┴──────┴─────────────┴──────┴──────┘
+                           │
+                           ▼
+                    USEFUL SOFTWARE
+```
+
+### Areas I'm exploring
+
+* 🧠 LLM architecture & capabilities
+* 🔎 Retrieval-Augmented Generation
+* 🧩 Vector search & embeddings
+* 🤖 Agentic workflows
+* 🔧 Function / tool calling
+* 🔄 Multi-model systems
+* 🎯 PEFT, LoRA & QLoRA
+* 🧪 LLM evaluation & experimentation
+
+---
+
+# 🎯 Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### Project 01
+### 🤖
 
-<!-- Add project screenshot here -->
+**AI**
 
-`Project Screenshot`
-
-</td>
-
-<td width="50%">
-
-### Project 02
-
-<!-- Add project screenshot here -->
-
-`Project Screenshot`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Project 03
-
-<!-- Add project screenshot here -->
-
-`Project Screenshot`
+LLMs & Generative AI
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### Project 04
+### 📚
 
-<!-- Add project screenshot here -->
+**RAG**
 
-`Project Screenshot`
+Knowledge Retrieval
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Agents**
+
+AI + Tools
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Development**
+
+Real Applications
 
 </td>
 </tr>
@@ -229,115 +309,105 @@ I'm particularly interested in moving beyond **"chat with an LLM"** toward syste
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsharma5650&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsharma5650&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jatinsharma5650&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🧭 Currently Exploring
+# 📌 What I'm Building Toward
 
 ```text
-AI Engineering
-████████████████████░░  90%
-
-LLM Applications
-███████████████████░░░  85%
-
-RAG & Vector Search
-██████████████████░░░░  80%
-
-AI Agents
-████████████████░░░░░░  75%
-
-Full-Stack Development
-██████████████████░░░░  80%
-
-System Design
-██████████████░░░░░░░░  65%
+        SOFTWARE
+           │
+           ▼
+    ┌──────────────┐
+    │      AI      │
+    └──────┬───────┘
+           │
+      ┌────┴────┐
+      │         │
+     RAG      Agents
+      │         │
+      └────┬────┘
+           │
+           ▼
+      AUTOMATION
+           │
+           ▼
+    INTELLIGENT
+     SOFTWARE
 ```
+
+I want to build systems where AI can:
+
+**Understand → Retrieve → Reason → Act**
+
+rather than simply:
+
+**Prompt → Generate → Stop**
 
 ---
 
-# 💡 My Approach
+# 📊 Profile Metrics
 
-I don't want to build AI just for the sake of adding an AI feature.
+<div align="center">
 
-I'm interested in building systems where AI **solves a real problem**.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinsharma5650&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jatinsharma5650&theme=tokyonight" width="45%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinsharma5650&theme=tokyonight" width="45%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jatinsharma5650/jatinsharma5650/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> If the snake doesn't appear, the GitHub Actions workflow for generating it needs to be added to the profile repository.
+
+---
+
+# 🌱 Currently Learning
 
 ```text
-        Idea
-          │
-          ▼
-    ┌─────────────┐
-    │   Problem   │
-    └──────┬──────┘
-           │
-           ▼
-    ┌─────────────┐
-    │   Software  │
-    └──────┬──────┘
-           │
-           ▼
-    ┌─────────────┐
-    │     AI      │
-    │  if useful  │
-    └──────┬──────┘
-           │
-           ▼
-    ┌─────────────┐
-    │   Product   │
-    └─────────────┘
+AI Engineering       ███████████████████░░
+LLM Applications     ██████████████████░░░
+RAG                  █████████████████░░░░
+AI Agents            ████████████████░░░░░
+Web Development      ██████████████████░░░
+System Design        █████████████░░░░░░░░
 ```
-
----
-
-# 🌱 What's Next?
-
-I'm continuing to explore the intersection of:
-
-**Software Development × AI × Automation**
-
-with a particular interest in building:
-
-* 🧠 Intelligent applications
-* 🤖 Agentic systems
-* 📚 RAG-based applications
-* 🔧 AI-powered developer tools
-* ⚙️ Automated workflows
-* 🚀 Practical AI products
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing **software development, AI, LLMs, RAG, agents and interesting technical ideas.**
+I'm interested in collaborating on:
 
-<p align="center">
+**AI applications · LLMs · RAG · AI Agents · Web Development · Open Source**
+
+<div align="center">
 
 <a href="https://github.com/jatinsharma5650">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jatin-sharma-286a9a290">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jatin-sharma-286a9a290/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⚡ Build → Experiment → Learn → Improve
+### ⚡ Build. Experiment. Learn. Ship.
 
-**Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer"/>
 
-</p>
+</div>
